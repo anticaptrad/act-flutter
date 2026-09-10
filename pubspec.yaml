@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  shared_auth_flutter:
+    git:
+      url: https://github.com/shared-auth/shared-auth-flutter.git
+      ref: 1977df365220a6fcd19ac74bfebaf5acfbae9ca5
 
 dev_dependencies:
   flutter_lints: ^6.0.0
